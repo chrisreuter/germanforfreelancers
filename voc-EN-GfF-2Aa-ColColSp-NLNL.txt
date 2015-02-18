@@ -6,10 +6,12 @@ DEF-WORD DELIMITER: /n/n
 
 
 Ich bin *BERUF*
-Ich bin Web-Entwickler. :: I am web developper.
+Ich bin Web-Entwickler. :: I am a *PROFESSION*.
+I am web developper.
 
-Ich komme aus *HERKUNFTSLAND*.
-Ich komme aus Italien. :: I'm from
+Ich komme aus *HERKUNFTSLAND/-STADT*.
+Ich komme aus Italien. :: I'm from *COUNTRY/CITY OF ORIGIN*.
+I'm from Italy.
 
 Ich bin freiberuflicher Fremdsprachentrainer. :: I am a freelance language trainer.
 
